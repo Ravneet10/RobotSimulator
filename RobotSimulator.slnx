@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RobotSimulator.Console/RobotSimulator.Console.csproj" />
+  <Project Path="RobotSimulator.Domain.Tests/RobotSimulator.Domain.Tests.csproj" />
+  <Project Path="RobotSimulator.Domain/RobotSimulator.Domain.csproj" />
+</Solution>
